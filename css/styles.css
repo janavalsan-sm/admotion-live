@@ -450,8 +450,8 @@ button {
 
 @media (min-width: 768px) {
   .home {
-    padding-top: 6rem;
-    padding-bottom: 8rem;
+    padding-top: 8rem;
+    padding-bottom: 4rem;
   }
 }
 
