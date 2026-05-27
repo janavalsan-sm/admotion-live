@@ -19,15 +19,15 @@ function initNavbar() {
   btn.innerHTML = iconMenu;
 
   // Scroll glass effect
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > 24) {
-      nav.classList.add('scrolled');
-      inner.classList.add('glass-strong');
-    } else {
-      nav.classList.remove('scrolled');
-      inner.classList.remove('glass-strong');
-    }
-  }, { passive: true });
+  // window.addEventListener('scroll', () => {
+  //   if (window.scrollY > 24) {
+  //     nav.classList.add('scrolled');
+  //     inner.classList.add('glass-strong');
+  //   } else {
+  //     nav.classList.remove('scrolled');
+  //     inner.classList.remove('glass-strong');
+  //   }
+  // }, { passive: true });
 
   // Mobile toggle
   let open = false;
