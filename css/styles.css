@@ -816,7 +816,7 @@ button {
    ============================================================ */
 .services {
   position: relative;
-  padding-block: 6rem;
+  padding-block: 2rem;
 }
 
 @media (min-width: 768px) {
@@ -932,7 +932,7 @@ button {
    ============================================================ */
 .nation-news {
   position: relative;
-  padding-block: 6rem;
+  padding-block: 2rem;
 }
 
 @media (min-width: 768px) {
@@ -1178,7 +1178,7 @@ button {
    ============================================================ */
 .why {
   position: relative;
-  padding-block: 6rem;
+  padding-block: 2rem;
 }
 
 @media (min-width: 768px) {
@@ -1321,7 +1321,7 @@ button {
    ============================================================ */
 .how-it-works {
   position: relative;
-  padding-block: 6rem;
+  padding-block: 2rem;
 }
 
 @media (min-width: 768px) {
@@ -1420,7 +1420,7 @@ button {
    ============================================================ */
 .network {
   position: relative;
-  padding-block: 6rem;
+  padding-block: 2rem;
 }
 
 @media (min-width: 768px) {
@@ -1516,7 +1516,7 @@ button {
    ============================================================ */
 .plans {
   position: relative;
-  padding-block: 6rem;
+  padding-block: 2rem;
 }
 
 @media (min-width: 768px) {
@@ -1692,7 +1692,7 @@ button {
    ============================================================ */
 .impact {
   position: relative;
-  padding-block: 6rem;
+  padding-block: 2rem;
 }
 
 @media (min-width: 768px) {
@@ -1777,7 +1777,7 @@ button {
    ============================================================ */
 .contact {
   position: relative;
-  padding-block: 6rem;
+  padding-block: 2rem;
 }
 
 @media (min-width: 768px) {
