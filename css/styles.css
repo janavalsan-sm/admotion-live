@@ -453,6 +453,9 @@ button {
     padding-top: 8rem;
     padding-bottom: 4rem;
   }
+  .nav-cta {
+    display: none;
+  }
 }
 
 .hero-grid {
